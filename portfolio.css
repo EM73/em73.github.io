@@ -228,5 +228,14 @@ nav input:checked + .menu {
     width:20rem;
     min-height: 25rem;
 
+  }
 }
 /*End other skills */
+
+
+/* Start projects */
+#projects {
+  background-color: #69141F;
+}
+
+/* End projects */
